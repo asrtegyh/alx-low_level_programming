@@ -8,7 +8,8 @@
  *  Return: 0 Alwways success
  *  
  */
-int main (void)
+
+int main(void)
 {
 	char chr = 'a';
 	 
@@ -18,6 +19,7 @@ int main (void)
 		{
 			putchar(chr);
 		}
+
 		chr++;
 	}
 	putchar('\n');

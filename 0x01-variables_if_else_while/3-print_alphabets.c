@@ -13,11 +13,11 @@ int main(void)
 {
 	int chr;
 
-	for(chr='a'; chr <='z' ;chr++)
+	for(chr = 'a'; chr <= 'z' ; chr++)
 	{
 		putchar(chr);
 	}
-	for (chr='A'; chr <='Z';chr++)
+	for (chr = 'A'; chr <= 'Z'; chr++)
 	{
 		putchar(chr);
 	}

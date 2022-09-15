@@ -5,12 +5,13 @@
  *
  * followed by newline, except q and e
  *
- * Return: 0 Always success  
+ * Return: 0 Always (success) 
  */
 
 int main(void)
 {
 	char chr = 'a';
+
 	while (chr <= 'z')
 
 	{
